@@ -7,4 +7,4 @@ Fell free to add your contributions to this.
 
 kaggle data link:
 
-https://www.kaggle.com/competitions/titanic
+https://www.kaggle.com/c/titanic
