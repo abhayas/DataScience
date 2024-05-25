@@ -1,1 +1,2 @@
-All Data Science projects
+# Data Structure & Algorithms using Python
+Various projects on DataScience
